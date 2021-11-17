@@ -1,0 +1,22 @@
+										Python Course 
+vairable types:
+int- a # without a fractional part
+float-has integer and fractional part separted by a point; ex 1.1
+str- string
+bool-booleans- a type to represent logical values; can only be True or False and the capitalization is important
+
+When to use python:
+has packages
+do quick calculations, develop a database-driven website, clean and analyze results of the latest satisfaction survey, make fancy visulaiozation of your copany's sells,
+
+Add comments: use #
+
+type conversion: str(), int(), float(), bool()
+if you want to use integers in a string, you need to convert them into string
+ex savings = 100
+result = 100 * 1.10 ** 7
+print("I started with $" + str(savings) + " and now have $" + str(result) + ". Awesome!")
+
+"I said " + ("Hey " * 2) + "Hey!"
+Out[3]:
+'I said Hey Hey Hey!'
